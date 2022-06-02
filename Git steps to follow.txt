@@ -1,0 +1,11 @@
+1.checkout to master branch and Pull master branch 
+2.create your branch (Harika)from master branch
+3.Commit changes to your branch (Harika)
+4.push changes to your branch (Harika)
+5.checkout to master branch and pull the latest code
+	5.1 create a new feature branch(harika2) from your branch (Harika) if there are lot of changes and dont 		want to mess up the changes in your branch (Harika)
+6.Merge Master to your branch (Harika/Harika2) (use git desktop for easy merge)
+7. Resolve merge conflicts if any --optional
+8. commit merge conflicts if any to your branch (Harika/Harika2) --optional
+9. push to your branch (Harika/Harika2) --optional
+10. create pull request from your branch (Harika/Harika2) to master
